@@ -1,1 +1,2 @@
 # Manual-Testing-on-ICICI-Mobile-Banking-application
+I have prepared this manual test script as my demo project. In this ICICI bank application i have covered various web pages for testing like downloading functionality, login functionality for new and existing users, savings portfolio functionality, credit card functionality, bill payment and FASTag functionality, offers and dicover functionality. I have tested every page and provided a status to every functionality whether it is ready for real time use or not.
